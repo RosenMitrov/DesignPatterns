@@ -1,7 +1,7 @@
-package demo.patterns.dp_01_intro;
+package demo.patterns.dp_01_strategy_pattern;
 
-import demo.patterns.dp_01_intro.flying.impl.FlyNoWay;
-import demo.patterns.dp_01_intro.quacking.impl.Squeak;
+import demo.patterns.dp_01_strategy_pattern.flying.impl.FlyNoWay;
+import demo.patterns.dp_01_strategy_pattern.quacking.impl.Squeak;
 
 public class RubberDuck extends Duck {
 
