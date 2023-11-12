@@ -1,7 +1,7 @@
-package demo.patterns.dp_01_intro;
+package demo.patterns.dp_01_strategy_pattern;
 
-import demo.patterns.dp_01_intro.flying.FlyBehaviour;
-import demo.patterns.dp_01_intro.quacking.QuackBehaviour;
+import demo.patterns.dp_01_strategy_pattern.flying.FlyBehaviour;
+import demo.patterns.dp_01_strategy_pattern.quacking.QuackBehaviour;
 
 public abstract class Duck {
     private FlyBehaviour flyBehaviour;

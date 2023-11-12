@@ -1,6 +1,6 @@
-package demo.patterns.dp_01_intro.quacking.impl;
+package demo.patterns.dp_01_strategy_pattern.quacking.impl;
 
-import demo.patterns.dp_01_intro.quacking.QuackBehaviour;
+import demo.patterns.dp_01_strategy_pattern.quacking.QuackBehaviour;
 
 public class MuteQuack implements QuackBehaviour {
 

@@ -1,6 +1,6 @@
-package demo.patterns.dp_01_intro.flying.impl;
+package demo.patterns.dp_01_strategy_pattern.flying.impl;
 
-import demo.patterns.dp_01_intro.flying.FlyBehaviour;
+import demo.patterns.dp_01_strategy_pattern.flying.FlyBehaviour;
 
 public class FlyRocketPowered implements FlyBehaviour {
 
