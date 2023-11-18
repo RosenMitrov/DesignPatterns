@@ -6,6 +6,6 @@ public class SwordBehaviourImpl implements WeaponBehaviour {
 
     @Override
     public void useWeapon() {
-        System.out.println("I am using my sward.");
+        System.out.println("I am using my sword.");
     }
 }
