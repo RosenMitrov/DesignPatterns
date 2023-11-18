@@ -1,4 +1,6 @@
-package demo.patterns.dp_01_strategy_pattern.authenticator;
+package demo.patterns.dp_01_strategy_pattern.authenticator.auth;
+
+import demo.patterns.dp_01_strategy_pattern.authenticator.AuthenticationStrategy;
 
 public class BiometricAuth implements AuthenticationStrategy {
 
