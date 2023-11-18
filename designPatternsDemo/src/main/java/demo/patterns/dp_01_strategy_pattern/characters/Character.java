@@ -10,8 +10,8 @@ public abstract class Character {
     void performWeapon() {
         if (this.weaponBehaviour == null) {
             this.setWeaponBehaviour(new BareHandsBehaviourImpl());
-            this.weaponBehaviour.useWeapon();
         }
+        this.weaponBehaviour.useWeapon();
     }
     
     public void setWeaponBehaviour(WeaponBehaviour weaponBehaviour) {
