@@ -1,7 +1,7 @@
-package demo.patterns.dp_01_strategy_pattern;
+package demo.patterns.dp_01_strategy_pattern.ducks;
 
-import demo.patterns.dp_01_strategy_pattern.flying.impl.FlyNoWay;
-import demo.patterns.dp_01_strategy_pattern.quacking.impl.MuteQuack;
+import demo.patterns.dp_01_strategy_pattern.ducks.flying.impl.FlyNoWay;
+import demo.patterns.dp_01_strategy_pattern.ducks.quacking.impl.MuteQuack;
 
 public class DecoyDuck extends Duck {
 

@@ -1,6 +1,6 @@
-package demo.patterns.dp_01_strategy_pattern.flying.impl;
+package demo.patterns.dp_01_strategy_pattern.ducks.flying.impl;
 
-import demo.patterns.dp_01_strategy_pattern.flying.FlyBehaviour;
+import demo.patterns.dp_01_strategy_pattern.ducks.flying.FlyBehaviour;
 
 public class FlyNoWay implements FlyBehaviour {
 

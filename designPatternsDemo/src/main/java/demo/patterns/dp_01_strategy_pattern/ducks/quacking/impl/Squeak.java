@@ -1,6 +1,6 @@
-package demo.patterns.dp_01_strategy_pattern.quacking.impl;
+package demo.patterns.dp_01_strategy_pattern.ducks.quacking.impl;
 
-import demo.patterns.dp_01_strategy_pattern.quacking.QuackBehaviour;
+import demo.patterns.dp_01_strategy_pattern.ducks.quacking.QuackBehaviour;
 
 public class Squeak implements QuackBehaviour {
 

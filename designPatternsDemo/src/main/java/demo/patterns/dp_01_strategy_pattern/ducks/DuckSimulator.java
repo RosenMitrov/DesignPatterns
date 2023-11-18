@@ -1,6 +1,6 @@
-package demo.patterns.dp_01_strategy_pattern;
+package demo.patterns.dp_01_strategy_pattern.ducks;
 
-import demo.patterns.dp_01_strategy_pattern.flying.impl.FlyRocketPowered;
+import demo.patterns.dp_01_strategy_pattern.ducks.flying.impl.FlyRocketPowered;
 
 public class DuckSimulator {
     public static void main(String[] args) {
