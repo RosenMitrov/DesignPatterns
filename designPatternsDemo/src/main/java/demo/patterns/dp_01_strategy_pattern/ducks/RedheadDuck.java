@@ -1,7 +1,7 @@
-package demo.patterns.dp_01_strategy_pattern;
+package demo.patterns.dp_01_strategy_pattern.ducks;
 
-import demo.patterns.dp_01_strategy_pattern.flying.impl.FlyWithWings;
-import demo.patterns.dp_01_strategy_pattern.quacking.impl.Quack;
+import demo.patterns.dp_01_strategy_pattern.ducks.flying.impl.FlyWithWings;
+import demo.patterns.dp_01_strategy_pattern.ducks.quacking.impl.Quack;
 
 public class RedheadDuck extends Duck {
 
