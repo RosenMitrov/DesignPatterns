@@ -4,6 +4,6 @@ public class Troll extends Character {
 
     @Override
     void fight() {
-        this.weaponBehaviour.useWeapon();
+        performWeapon();
     }
 }

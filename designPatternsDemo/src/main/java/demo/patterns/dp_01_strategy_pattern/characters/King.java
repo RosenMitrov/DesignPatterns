@@ -4,6 +4,6 @@ public class King extends Character {
 
     @Override
     void fight() {
-        this.weaponBehaviour.useWeapon();
+        performWeapon();
     }
 }

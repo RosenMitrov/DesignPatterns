@@ -4,6 +4,6 @@ public class Queen extends Character {
 
     @Override
     void fight() {
-        this.weaponBehaviour.useWeapon();
+        performWeapon();
     }
 }
